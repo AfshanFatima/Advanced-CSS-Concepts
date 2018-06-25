@@ -2,6 +2,10 @@
 MODULE-1
 
 
+
+
+
+
 Module 1 - Responsive Layout Using Media Queries
      Resource Content: Building a Responsive Layout
 Video: Responsive Web Design with Media Queries
