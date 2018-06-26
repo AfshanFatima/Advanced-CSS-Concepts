@@ -51,3 +51,41 @@ Assessment  This content is graded
 Lab Overview
 Lab Instructions
 Assessment
+
+
+MOdule-2
+
+
+
+ CSS Modules and High Fidelity Designs
+ Resource Content: Building the Base and CSS Modules
+Making Your CSS Modular
+General Modular Guidelines
+Another Example of Modules Using Icon Fonts
+Advanced Positioning with CSS
+ Module Labs: Overview and Required Configuration Steps
+  Tutorial Lab: Build the Base Button Module
+Assessment  This content is graded
+To Build the Base Button CSS Module
+To Modify the Base Button with Button Primary
+To Include a Fade Transition for Button Hover State
+Assessment
+ Tutorial Lab: Build the Mobile Header, Logo, and Navigation
+Assessment  This content is graded
+To Create and Style Header Wrapper
+To Create and Style the Logo for Extra Small Devices
+To Create and Style the Navigation for Extra Small Devices
+Assessment
+ Tutorial Lab: Build the Hero Section and Background Image
+Assessment  This content is graded
+Video: Positioning with CSS
+To Create Hero and Hero Primary Modules
+To Create and Style the Hero Text Content
+To Create Hero Background Image Module
+Assessment
+ Tutorial Lab: Build a Media Object that Includes an Icon Font
+Assessment  This content is graded
+To Create an HTML template for Media Objects
+To Add Font Awesome Icon Font
+To Style your Media Object
+Assessment
