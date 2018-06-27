@@ -1,13 +1,12 @@
-
-MODULE-1
-
+DEV218x - Advanced CSS Concepts - Microsoft
 
 
 
+Module-1
 
 
-Module 1 - Responsive Layout Using Media Queries
-     Resource Content: Building a Responsive Layout
+ Responsive Layout Using Media Queries
+Resource Content: Building a Responsive Layout
 Video: Responsive Web Design with Media Queries
 What is a Responsive Layout?
 CSS Overview
@@ -53,7 +52,7 @@ Lab Instructions
 Assessment
 
 
-MOdule-2
+Module-2
 
 
 
@@ -97,7 +96,7 @@ Module 3
 
 
 
-- Sass/Less and Preprocessing
+ Sass/Less and Preprocessing
  Resource Content: CSS Preprocessing Tools
   Module Labs: Overview and Required Configuration Steps
   Tutorial Lab: Getting Started Transpiling SCSS into CSS
