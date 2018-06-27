@@ -89,3 +89,37 @@ To Create an HTML template for Media Objects
 To Add Font Awesome Icon Font
 To Style your Media Object
 Assessment
+
+
+
+
+Module 3 
+
+
+
+- Sass/Less and Preprocessing
+ Resource Content: CSS Preprocessing Tools
+  Module Labs: Overview and Required Configuration Steps
+  Tutorial Lab: Getting Started Transpiling SCSS into CSS
+To Install a Node.js Version of Sass called Node-Sass
+To Set Up a Task Runner with Visual Studio Code to Transpile your SCSS into CSS
+To Create Separate SCSS Files from stylesheet.css
+To Link your HTML File to your CSS File
+ Tutorial Lab: Build Desktop Header Section with Variables and Media Query Mixins
+To Create a Breakpoint Variable and Media Query Mixins
+Video: Changing Your Grid to Sass
+To Style the Logo Module for Devices Small and Above
+To Style the Nav Module for Devices Small and Above
+To Style the Header Module for Devices Small and Above
+ Tutorial Lab: Create the Circle Image Frame Module and Color Mask Module
+To Create Color Variables and Update your Theme Styles
+To Create the Circle Image for Extra Small Devices
+To Create the Circle Image for Devices Small and Above
+To Create the Color Mask for the Circle Image
+ Self-Assessment Lab: Updating Your CSS with Sass
+Assessment  This content is graded
+Lab Overview
+Instructions
+Assessment
+ 
+
