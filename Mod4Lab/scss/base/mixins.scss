@@ -9,6 +9,7 @@ display: -moz-box;
 display: -ms-flexbox;
 display: -webkit-flex;
 display: flex;
+}
 @mixin flex($values) {
     -webkit-box-flex: $values;
     -moz-box-flex:  $values;
@@ -16,4 +17,4 @@ display: flex;
     -ms-flex:  $values;
     flex:  $values;
 }
-}
+
