@@ -6,6 +6,9 @@ Module-1
 
 
  Responsive Layout Using Media Queries
+
+
+
 Resource Content: Building a Responsive Layout
 Video: Responsive Web Design with Media Queries
 What is a Responsive Layout?
@@ -57,6 +60,8 @@ Module-2
 
 
  CSS Modules and High Fidelity Designs
+
+
  Resource Content: Building the Base and CSS Modules
 Making Your CSS Modular
 General Modular Guidelines
@@ -97,6 +102,8 @@ Module 3
 
 
  Sass/Less and Preprocessing
+
+ 
  Resource Content: CSS Preprocessing Tools
   Module Labs: Overview and Required Configuration Steps
   Tutorial Lab: Getting Started Transpiling SCSS into CSS
@@ -122,3 +129,43 @@ Instructions
 Assessment
  
 
+ Module 4
+ 
+ 
+ 
+  Web App Testing and Support for Browsers and Devices
+
+
+
+  
+ Resource Content: Tools for Testing and Supporting Web Apps
+Introduction to Cross Browser Testing
+Introduction to Web Developer Tools
+Linting and Validating Your Web Pages
+Browser (Vendor) Prefixes
+Flexbox Revisited
+Using Modernizr
+ Module Labs: Overview and Required Configuration Steps
+Labs Overview
+Configuration: To Set Up the Lab Environment
+ Tutorial Lab: Finding and Fixing Issues in Web Pages
+To Verify and Lint Your Syntax Using Visual Studio Code
+To Examine an Element Using Browser Tools
+To Examine Device Views Using Browser Tools
+To Fix the Circle Image's Size for Tablet Sized Devices
+ Tutorial Lab: Using Flexbox to Maximize Available Space
+To Examine Browser Support for Flexbox
+To Improve Flexbox Browser Support by Adding Prefixes
+To Use Flexbox in Header-Primary and Clean Up the Logo and Nav
+ Tutorial Lab: Extending Grid Styles with Flexbox
+To Get Your HTML Template Ready for Flexbox
+To Create and Use a Mixin for the Flex Attribute
+To Create and Use a Class to Reverse Flex Direction
+ Tutorial Lab: Adding SVG Images Using the <picture> Tag
+To Add a Basic <picture> Element for an SVG Image
+To Add Browser Support with PictureFill
+ Self-Assessment Lab: Flexbox and SVG Images
+Assessment  This content is graded
+Lab Overview
+Instructions
+Assessment
